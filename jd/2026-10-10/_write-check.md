@@ -1,3 +1,0 @@
-# write check
-
-Required: test
