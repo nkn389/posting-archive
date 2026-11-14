@@ -5,7 +5,7 @@
 - 勤務地: we offer the following
 - 締切: 2026-12-15
 - 元のURL: https://jobs.smartrecruiters.com/ConstanterPhilanthropyServices/744000159145579
-- 取得日時: 2026-11-14 11:54 JST
+- 取得日時: 2026-11-14 12:36 JST
 
 ---
 
